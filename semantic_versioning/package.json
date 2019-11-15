@@ -1,0 +1,14 @@
+{
+  "name": "semantic_versioning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "edward gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "~4.17.15"
+  }
+}
